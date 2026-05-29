@@ -1,4 +1,4 @@
-// Teacher is a Person (Inheritance)
+
 public class Teacher extends Person {
     private String department;
 

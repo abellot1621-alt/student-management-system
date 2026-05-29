@@ -20,4 +20,4 @@ This project is a simple Java console application that demonstrates the four mai
 ## How to Run
 1. Clone the repository:
    `bash
-   git clone <your-repo-link>
+   git clone <https://github.com/abellot1621-alt/student-management-system.git>

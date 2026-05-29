@@ -8,13 +8,11 @@ public class Student extends Person {
         setGpa(gpa);     // use setter for validation
     }
 
-    // Default constructor
     public Student() {
         super("Unknown", "0000");
         this.gpa = 0.0;
     }
-
-    // Getter and Setter (Encapsulation)
+ 
     public double getGpa() {
         return gpa;
     }

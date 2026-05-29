@@ -1,4 +1,4 @@
-// Base class (Inheritance)
+ (Inheritance)
 public class Person {
     private String name;
     private String id;
@@ -18,7 +18,6 @@ public class Person {
         return id;
     }
 
-    // Method to display info (will be overridden)
     public void displayInfo() {
         System.out.println("Name: " + name + ", ID: " + id);
     }

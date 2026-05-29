@@ -3,7 +3,7 @@ public class Main {
     public static void main(String[] args) {
         // Classes & Objects
         Student s1 = new Student("Alice", "S001", 3.5);
-        Student s2 = new Student(); // default constructor
+        Student s2 = new Student();
         Teacher t1 = new Teacher("Dr. John", "T001", "Computer Science");
 
         // Encapsulation
